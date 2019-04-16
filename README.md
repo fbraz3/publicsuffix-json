@@ -1,6 +1,6 @@
 # publicsuffix-json
 
-A json version from [Public Suffix List](https://publicsuffix.org/)
+A json version from [Public Suffix List](https://publicsuffix.org/), daily updated!
 
 ## About Public Suffix List
 
